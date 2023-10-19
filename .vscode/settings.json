@@ -1,0 +1,5 @@
+{
+    "idf.port": "/dev/cu.Bluetooth-Incoming-Port",
+    "idf.adapterTargetName": "esp32",
+    "C_Cpp.errorSquiggles": "disabled"
+}
